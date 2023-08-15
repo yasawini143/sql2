@@ -1,1 +1,1 @@
-# sql2
+SELECT Title, Author, Published_Year FROM books;
